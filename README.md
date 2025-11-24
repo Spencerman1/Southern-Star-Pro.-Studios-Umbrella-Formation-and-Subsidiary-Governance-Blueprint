@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Southern-Star-Pro.-Studios-Umbrella-Formation-and-Subsidiary-Governance-Blueprint
 This document outlines the legal, financial, and operational steps to establish Southern Star Pro. Studios LLC as a parent entity with multiple subsidiaries, including a 501(c)(3) nonprofit. It anchors prior art for scalable governance, strategic continuity, and IP-backed organizational control.
